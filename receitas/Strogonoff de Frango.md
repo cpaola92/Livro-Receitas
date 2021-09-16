@@ -22,7 +22,7 @@
 
   
 
-### Modo de Preparo ###
+### Modo de Preparo: ###
 
 1. Em uma panela doure a cebola, o alho e a manteiga.
 2. Junte o frango em cubos e mexa até que esteja dourado.
